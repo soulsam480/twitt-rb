@@ -1,0 +1,11 @@
+{
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.format": "rubocop",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.lint": {
+    "rubocop": true
+  },
+  "solargraph.useBundler": true,
+  "ruby.rubocop.onSave": true,
+  "ruby.rubocop.useBundler": true
+}
